@@ -2,8 +2,7 @@
 Predicting the optimal sorting algorithm for specific arrays with given presortedness metrics :chart_with_upwards_trend:
 
 Results:
-- [Predicting Algorithms given all presortedness metrics of full array](https://github.com/DavidRichardGit/Presortedness-ML/blob/main/MLModels/NNModel_fullArray.ipynb)
-- [Predicting Algorithms minimizing amount of comparisons needed for sorting + presortedness calculation](https://github.com/DavidRichardGit/Presortedness-ML/blob/main/MLModels/NNModel_dynamic%20(1).ipynb)
+- [Predicting Algorithms minimizing amount of comparisons needed for sorting + presortedness calculation](https://github.com/DavidRichardGit/ML-Sorting/blob/main/NNModel_dynamic-Max10000static.ipynb)
 
 ## Generic Workflow :clipboard:
 
